@@ -5,9 +5,9 @@ Modelado en el entorno de FreeCAD usando el addon de a2plus
 
 Codigo usando PlatformIO de VSCode
 
-Basado en el microcontrolador Esp 32 de Espressif
-Control de servomotores mediante PCA 9685 de Adafruit
-Control de motores mediante controlador basado en l298n
+Basado en el microcontrolador Esp 32 de Espressif                                                                                       
+Control de servomotores mediante PCA 9685 de Adafruit                                                                                   
+Control de motores mediante controlador basado en l298n                                                                                 
 
 Proyecto en desarrollo
 
